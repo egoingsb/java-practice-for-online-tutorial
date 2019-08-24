@@ -77,7 +77,7 @@ class Blind {
 	}
 }
 
-public class Elevator {
+class Elevator {
 	public static Boolean callForDown() {
 		System.out.println("Elevator callForDown");
 		return true;
